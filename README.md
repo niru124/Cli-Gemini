@@ -30,9 +30,9 @@ A simple command-line interface (CLI) application that allows you to have a conv
     *   Create a file named `.env` in the root of the project directory.
     *   Add your Google AI API key to the `.env` file like this:
         ```env
-        API_KEY="YOUR_GOOGLE_AI_API_KEY"
+        API_KEY="API_KEY_HERE"
         ```
-        Replace `"YOUR_GOOGLE_AI_API_KEY"` with your actual key. **Do not include the quotes** unless they are part of your key.
+        Replace `"API_KEY_HERE"` with your actual key. **Do not include the quotes** unless they are part of your key.
 
 ## Usage
 
